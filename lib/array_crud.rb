@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   famous_characters = ["Thor", "Hulk", "Loki"]
-  
+  Loki = famous_characters.pop
 end
 
 def remove_element_from_start_of_array(array)
