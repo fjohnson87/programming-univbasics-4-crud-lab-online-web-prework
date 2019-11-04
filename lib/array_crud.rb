@@ -19,6 +19,7 @@ famous_characters.unshift ("Spiderman")
 end
 
 def remove_element_from_end_of_array(array)
+  famous_characters = ["Thor", "Hulk", "Loki"]
   
 end
 
