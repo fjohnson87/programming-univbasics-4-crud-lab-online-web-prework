@@ -45,5 +45,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 	summer_menu = ["beer", "chips", "pony tails "]
-	summer_menu[2] = 
+	summer_menu[2] = "waffles"
 end
